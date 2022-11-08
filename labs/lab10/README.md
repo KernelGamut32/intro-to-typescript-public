@@ -1,14 +1,12 @@
 # Introduction to TypeScript - Lab 10
 
-Execute the exercises at https://www.learningtypescript.com/generics/ including:
+Execute the exercises at https://www.learningtypescript.com/declaration-files/ including:
 
-## Hidash
+## Global Travels
 
-* Step #1: Unique
-* Step #2: Zip
-* Step #3: Pick
-* Step #4: Pick Many
+* Step #1: Passport Declarations
+* Step #2: Unexpected Methods
 
-## Treasure Hunter
+## Type Illusions
 
-GitHub repository defined for the exercises (https://github.com/LearningTypeScript/projects/tree/main/projects/generics) contains the solutions as well. I would recommend forking the top-level repository and cloning from the fork rather than cloning directly.
+GitHub repository defined for the exercises (https://github.com/LearningTypeScript/projects/tree/main/projects/declaration-files) contains the solutions as well. I would recommend forking the top-level repository and cloning from the fork rather than cloning directly.
